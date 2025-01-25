@@ -11,11 +11,17 @@ lang: zh
 plugins:
   - jekyll-seo-tag
 
-color: "#13ccf9"
+color: "#347df8"
 disqus:
   shortname: lishuhang
 
 rrss:
-  email: "i@lishuhang.me"
+  email: "mailto:i@lishuhang.me"
   telegram: "https://t.me/lishuhang"
-  discord: "https://discord.com/"
+  facebook: "https://facebook.com/lishuhang"
+  instagram: "https://instagram.com/lishuhang"
+  twitter: "https://x.com/lishuhang"
+  discord: ""
+  linkedin: "https://www.linkedin.com/in/lishuhang/"
+  whatsapp: ""
+  pinterest: ""

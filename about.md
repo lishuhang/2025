@@ -1,5 +1,5 @@
 ---
-title: about
+title: 关于
 layout: page
 ---
 ## 欢迎访问航通社网站
