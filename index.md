@@ -1,7 +1,6 @@
 ---
 layout: home
 ---
-# Welcome
+# 航通社 lishuhang.me
 
-Hello World. Hello Friend.
-
+你应该知道的历史、现在和未来
