@@ -1,6 +1,6 @@
 ---
 date: 2024-08-14
-image: https://raw.githubusercontent.com/lishuhang/img/master/2024/08/14/0814-00.jpg
+image: https://raw.githubusercontent.com/lishuhang/img/master/2024/08/14/00.jpg
 layout: post
 tags: AI
 title: 当情欲陪聊和组队玩家也成了AI，我们还能相信谁？
