@@ -2,7 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-
 @layer base {
   body {
     font-family: 'OpenSans', sans-serif;
@@ -14,7 +13,7 @@
   h4,
   h5,
   h6 {
-    font-family: 'Adamina', serif;
+    font-family: 'OpenSans', sans-serif;
   }
 }
 
